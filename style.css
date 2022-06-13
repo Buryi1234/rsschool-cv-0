@@ -1,0 +1,27 @@
+h1{
+    color:brown;
+}
+
+p{
+    color:brown;
+    font-size: 30px;
+    }
+
+
+    .border {
+        border: 1px solid #000;
+      }
+      
+      .logoonpay img {
+        width: 140px;
+        float: right;
+      }
+      .main {
+          float: right;
+      }
+      .underline{
+          text-decoration: underline;
+      }
+     body{
+        background-color:#D3EFED;
+     }
