@@ -19,16 +19,38 @@ p{
       .main {
           float: right;
       }
-      .underline{
-          text-decoration: underline;
-      }
+    
      body{
         background-color:#D3EFED;
+        
      }
+     
      .container {
         max-width: 1440px;
         margin: 0 auto;
       }
       a{
           color: black;
+      }
+      .nav-list {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+      }
+
+      .header {
+          border: 5px solid brown;
+      }
+
+      .nav-list {
+        list-style: none;
+      }
+
+      .nav-link {
+        padding: 0 20px;
+        line-height: 50px;
+      }
+
+      html {
+        scroll-behavior: smooth; 
       }
