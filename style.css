@@ -19,9 +19,7 @@ p{
       .main {
           float: right;
       }
-      .underline{
-          text-decoration: underline;
-      }
+    
      body{
         background-color:#D3EFED;
         
@@ -51,4 +49,8 @@ p{
       .nav-link {
         padding: 0 20px;
         line-height: 50px;
+      }
+
+      html {
+        scroll-behavior: smooth; 
       }
